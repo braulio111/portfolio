@@ -972,6 +972,10 @@ section {
   border-radius: 4px;
 }
 
+.boot-label {
+  margin: 20px 0px 0px 0px;
+}
+
 .contact .php-email-form button[type="submit"]:hover {
   background: #37b3ed;
 }
